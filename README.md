@@ -1,6 +1,3 @@
-
----
-
 # Secure File Sharing App
 
 This is a secure file sharing web application built using Node.js, Express, MongoDB, and EJS. It allows users to upload files with optional password protection and provides a password prompt for downloading protected files.
